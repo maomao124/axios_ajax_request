@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<!--
+Project name(项目名称)：axios_ajax_request
+  File name(文件名): test1
+  Authors(作者）: mao
+  Author QQ：1296193245
+  GitHub：https://github.com/maomao124/
+  Date(创建日期)： 2022/4/14
+  Time(创建时间)： 17:36
+  Description(描述)： 无
+-->
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="axios.js"></script>
+    <style>
+        #result {
+            width: 600px;
+            height: 300px;
+            border: 3px solid salmon;
+        }
+    </style>
+</head>
+<body>
+<button id="button">发起ajax请求</button>
+
+<div id="result">
+
+</div>
+
+<script>
+    var button = document.getElementById('button');
+    var result = document.getElementById('result');
+
+    button.onclick = function ()
+    {
+        //axios发起ajax请求
+        axios.get("/server1",
+            {
+                //请求参数：
+                params:
+                    {
+                        a: 8,
+                        b: 9,
+                    },
+                //请求头信息：
+                header:
+                    {
+
+                    },
+            }
+            //数据返回
+        ).then(data =>
+        {
+            console.log(data);
+            result.innerHTML = data.data;
+        });
+    }
+</script>
+
+</body>
+</html>

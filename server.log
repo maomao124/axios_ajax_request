@@ -1,0 +1,42 @@
+2022-04-14 18:29:22.473  INFO 10800 --- [http-nio-8080-exec-9] m.a.controller.MyController              : null
+2022-04-14 18:29:22.475  INFO 10800 --- [http-nio-8080-exec-9] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:22.974  INFO 10800 --- [http-nio-8080-exec-10] m.a.controller.MyController              : null
+2022-04-14 18:29:22.974  INFO 10800 --- [http-nio-8080-exec-10] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:23.348  INFO 10800 --- [http-nio-8080-exec-1] m.a.controller.MyController              : null
+2022-04-14 18:29:23.348  INFO 10800 --- [http-nio-8080-exec-1] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:23.929  INFO 10800 --- [http-nio-8080-exec-2] m.a.controller.MyController              : null
+2022-04-14 18:29:23.930  INFO 10800 --- [http-nio-8080-exec-2] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:24.252  INFO 10800 --- [http-nio-8080-exec-3] m.a.controller.MyController              : null
+2022-04-14 18:29:24.252  INFO 10800 --- [http-nio-8080-exec-3] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:24.444  INFO 10800 --- [http-nio-8080-exec-4] m.a.controller.MyController              : null
+2022-04-14 18:29:24.444  INFO 10800 --- [http-nio-8080-exec-4] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:24.627  INFO 10800 --- [http-nio-8080-exec-5] m.a.controller.MyController              : null
+2022-04-14 18:29:24.627  INFO 10800 --- [http-nio-8080-exec-5] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:24.806  INFO 10800 --- [http-nio-8080-exec-6] m.a.controller.MyController              : null
+2022-04-14 18:29:24.806  INFO 10800 --- [http-nio-8080-exec-6] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:24.978  INFO 10800 --- [http-nio-8080-exec-7] m.a.controller.MyController              : null
+2022-04-14 18:29:24.978  INFO 10800 --- [http-nio-8080-exec-7] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:25.163  INFO 10800 --- [http-nio-8080-exec-8] m.a.controller.MyController              : null
+2022-04-14 18:29:25.163  INFO 10800 --- [http-nio-8080-exec-8] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:25.446  INFO 10800 --- [http-nio-8080-exec-9] m.a.controller.MyController              : null
+2022-04-14 18:29:25.446  INFO 10800 --- [http-nio-8080-exec-9] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:25.774  INFO 10800 --- [http-nio-8080-exec-10] m.a.controller.MyController              : null
+2022-04-14 18:29:25.774  INFO 10800 --- [http-nio-8080-exec-10] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:26.116  INFO 10800 --- [http-nio-8080-exec-1] m.a.controller.MyController              : null
+2022-04-14 18:29:26.116  INFO 10800 --- [http-nio-8080-exec-1] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:26.357  INFO 10800 --- [http-nio-8080-exec-2] m.a.controller.MyController              : null
+2022-04-14 18:29:26.357  INFO 10800 --- [http-nio-8080-exec-2] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:26.555  INFO 10800 --- [http-nio-8080-exec-3] m.a.controller.MyController              : null
+2022-04-14 18:29:26.555  INFO 10800 --- [http-nio-8080-exec-3] m.a.controller.MyController              : 9---77
+2022-04-14 18:29:26.743  INFO 10800 --- [http-nio-8080-exec-4] m.a.controller.MyController              : null
+2022-04-14 18:29:26.743  INFO 10800 --- [http-nio-8080-exec-4] m.a.controller.MyController              : 9---77
+2022-04-14 18:30:05.574  INFO 11520 --- [main] m.a.AxiosAjaxRequestApplication          : Starting AxiosAjaxRequestApplication using Java 16.0.2 on mao with PID 11520 (H:\程序\大三下期\axios_ajax请求\target\classes started by mao in H:\程序\大三下期\axios_ajax请求)
+2022-04-14 18:30:05.576 DEBUG 11520 --- [main] m.a.AxiosAjaxRequestApplication          : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-14 18:30:05.577  INFO 11520 --- [main] m.a.AxiosAjaxRequestApplication          : The following 1 profile is active: "dev"
+2022-04-14 18:30:06.149  INFO 11520 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-14 18:30:06.158  INFO 11520 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-14 18:30:06.158  INFO 11520 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-14 18:30:06.227  INFO 11520 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-14 18:30:06.228  INFO 11520 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 610 ms
+2022-04-14 18:30:06.461  INFO 11520 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-14 18:30:06.470  INFO 11520 --- [main] m.a.AxiosAjaxRequestApplication          : Started AxiosAjaxRequestApplication in 1.207 seconds (JVM running for 1.695)
